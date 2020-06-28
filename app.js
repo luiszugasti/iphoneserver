@@ -4,7 +4,7 @@ const app = express();
 const port = 3000;
 const os = require('os');
 
-//D:\\Videos\\
+// D:\\Videos\\
 const dir = process.env.VIDEO;
 
 // SERVE RIGHT TO YOUR DOOR
